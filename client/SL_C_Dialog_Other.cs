@@ -1258,21 +1258,21 @@ function Get_Shop_Dialog(%Npc,%Player,%DialogID,%Param)
 								$Get_Dialog_GeShi[80001] @ "1级帮派升级需要：</t><b/>" @
 								GetItemName(105105303,1) @ "<t>* 10</t><b/>" @
 								"<t> 帮派活跃达到 </t>" @ $Get_Dialog_GeShi[31409] @ "10000 </t><t>点</t><b/>" @
-								"<t> 帮派声望达到 </t>" @ $Get_Dialog_GeShi[31409] @ "10000 </t><t>点</t><b/>" @
+								"<t> 帮派声望达到 </t>" @ $Get_Dialog_GeShi[31409] @ "288000 </t><t>点</t><b/>" @
 								$Get_Dialog_GeShi[80001] @ "2级帮派升级需要：</t><b/>" @
 								GetItemName(105105304,1) @ "<t>* 10</t><b/>" @
 								"<t> 帮派活跃达到 </t>" @ $Get_Dialog_GeShi[31409] @ "20000 </t><t>点</t><b/>" @
-								"<t> 帮派声望达到 </t>" @ $Get_Dialog_GeShi[31409] @ "100000 </t><t>点</t><b/>" @
+								"<t> 帮派声望达到 </t>" @ $Get_Dialog_GeShi[31409] @ "4320000 </t><t>点</t><b/>" @
 								$Get_Dialog_GeShi[80001] @ "3级帮派升级需要：</t><b/>" @
 								GetItemName(105105304,1) @ "<t>* 50</t><b/>" @
 								GetItemName(105105305,1) @ "<t>* 1</t><b/>" @
 								"<t> 帮派活跃达到 </t>" @ $Get_Dialog_GeShi[31409] @ "30000 </t><t>点</t><b/>" @
-								"<t> 帮派声望达到 </t>" @ $Get_Dialog_GeShi[31409] @ "250000 </t><t>点</t><b/>" @
+								"<t> 帮派声望达到 </t>" @ $Get_Dialog_GeShi[31409] @ "14400000 </t><t>点</t><b/>" @
 								$Get_Dialog_GeShi[80001] @ "4级帮派升级需要：</t><b/>" @
 								GetItemName(105105304,1) @ "<t>* 100</t><b/>" @
 								GetItemName(105105305,1) @ "<t>* 10</t><b/>" @
 								"<t> 帮派活跃达到 </t>" @ $Get_Dialog_GeShi[31409] @ "40000 </t><t>点</t><b/>" @
-								"<t> 帮派声望达到 </t>" @ $Get_Dialog_GeShi[31409] @ "1000000 </t><t>点</t>";
+								"<t> 帮派声望达到 </t>" @ $Get_Dialog_GeShi[31409] @ "36000000 </t><t>点</t>";
 
 						case 100084:
 							return $Icon[5] @ "<t>我要升级</t>";
